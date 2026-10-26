@@ -1,2 +1,1 @@
-# digital-mart
-A full-stack e-commerce website developed using HTML, CSS, Bootstrap, PHP, and MySQL, featuring product management, shopping cart, customer orders, and an admin dashboard.
+🛒 Digital Mart — Full-Stack E-Commerce Web Application | PHP, MySQL, HTML, CSS, Bootstrap & JavaScript | Project Showcase Coming Soon!
